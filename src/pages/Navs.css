@@ -1,0 +1,10 @@
+
+
+a{
+    display: flex;
+justify-content: center;
+align-items: center;
+    margin-right: 30px;
+    margin-top: 15px;
+    text-decoration: none !important;
+}
